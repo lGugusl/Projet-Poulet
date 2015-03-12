@@ -59,7 +59,7 @@
      <None Include="Assets\Fabric\Readme.txt" />
      <None Include="Assets\Parabox Primitives\README.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/gugus_000/Documents/GitHub/Poulet/Unity Project/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>C:/Users/gugus_000/Documents/GitHub/Projet-Poulet/Unity Project/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.3/UnityEngine.UI.dll</HintPath>
@@ -68,28 +68,28 @@
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.3/Editor/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="Fabric.AudioSpline">
- <HintPath>C:/Users/gugus_000/Documents/GitHub/Poulet/Unity Project/Assets/Fabric/Fabric.AudioSpline.dll</HintPath>
+ <HintPath>C:/Users/gugus_000/Documents/GitHub/Projet-Poulet/Unity Project/Assets/Fabric/Fabric.AudioSpline.dll</HintPath>
  </Reference>
  <Reference Include="Fabric.Core">
- <HintPath>C:/Users/gugus_000/Documents/GitHub/Poulet/Unity Project/Assets/Fabric/Fabric.Core.dll</HintPath>
+ <HintPath>C:/Users/gugus_000/Documents/GitHub/Projet-Poulet/Unity Project/Assets/Fabric/Fabric.Core.dll</HintPath>
  </Reference>
  <Reference Include="Fabric.LoudnessMeter">
- <HintPath>C:/Users/gugus_000/Documents/GitHub/Poulet/Unity Project/Assets/Fabric/Fabric.LoudnessMeter.dll</HintPath>
+ <HintPath>C:/Users/gugus_000/Documents/GitHub/Projet-Poulet/Unity Project/Assets/Fabric/Fabric.LoudnessMeter.dll</HintPath>
  </Reference>
  <Reference Include="Fabric.ModularSynth">
- <HintPath>C:/Users/gugus_000/Documents/GitHub/Poulet/Unity Project/Assets/Fabric/Fabric.ModularSynth.dll</HintPath>
+ <HintPath>C:/Users/gugus_000/Documents/GitHub/Projet-Poulet/Unity Project/Assets/Fabric/Fabric.ModularSynth.dll</HintPath>
  </Reference>
  <Reference Include="Fabric.AudioSpline.Editor">
- <HintPath>C:/Users/gugus_000/Documents/GitHub/Poulet/Unity Project/Assets/Fabric/Editor/Fabric.AudioSpline.Editor.dll</HintPath>
+ <HintPath>C:/Users/gugus_000/Documents/GitHub/Projet-Poulet/Unity Project/Assets/Fabric/Editor/Fabric.AudioSpline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Fabric.Core.Editor">
- <HintPath>C:/Users/gugus_000/Documents/GitHub/Poulet/Unity Project/Assets/Fabric/Editor/Fabric.Core.Editor.dll</HintPath>
+ <HintPath>C:/Users/gugus_000/Documents/GitHub/Projet-Poulet/Unity Project/Assets/Fabric/Editor/Fabric.Core.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Fabric.LoudnessMeter.Editor">
- <HintPath>C:/Users/gugus_000/Documents/GitHub/Poulet/Unity Project/Assets/Fabric/Editor/Fabric.LoudnessMeter.Editor.dll</HintPath>
+ <HintPath>C:/Users/gugus_000/Documents/GitHub/Projet-Poulet/Unity Project/Assets/Fabric/Editor/Fabric.LoudnessMeter.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Fabric.ModularSynth.Editor">
- <HintPath>C:/Users/gugus_000/Documents/GitHub/Poulet/Unity Project/Assets/Fabric/Editor/Fabric.ModularSynth.Editor.dll</HintPath>
+ <HintPath>C:/Users/gugus_000/Documents/GitHub/Projet-Poulet/Unity Project/Assets/Fabric/Editor/Fabric.ModularSynth.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
